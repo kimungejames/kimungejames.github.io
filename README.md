@@ -1,2 +1,2 @@
-# kimungejames.github.io
+# simpleWebsite.github.io
 Creating a website
